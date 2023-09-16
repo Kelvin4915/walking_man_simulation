@@ -2,6 +2,11 @@
 
 The purpose of this code is to simulate and validate the Linear Quadratic Regulator (LQR), an optimal control algorithm.
 
+https://github.com/Harshit0803/humanoidBot/assets/29999543/0bf24bb9-a7f4-479d-97bb-67f0d2c5bd8c
+
+
+
+
 ## Objectives:
 * The task will involve utilizing the walking action of a human.
 * Control of the motion of the Center of Mass (CoM) will be achieved through the use of the Center of Pressure (CoP) and a regulator.
