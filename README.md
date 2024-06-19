@@ -1,7 +1,10 @@
 # HumanoidBot
 
+https://github.com/Kelvin4915/walking_man_simulation/assets/134540002/18051575-75cf-452b-9cdc-5ef48d52a92f
 
-https://github.com/Kelvin4915/walking_man_simulation/assets/134540002/b4001b4d-5d59-49c0-bd94-20eace003619
+
+
+
 
 
 This code aims to simulate and validate the Linear Quadratic Regulator (LQR), an optimal control algorithm.
